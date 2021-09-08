@@ -37,11 +37,11 @@ Visit [YouTube](https://www.youtube.com/)
 ![google logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 <!-- Table -->
-|Header|Description|
-|:--:|:--:|
-|Cell1|Cell2|
-|Cell1|Cell2|
-|Cell1|Cell2|
+Header|Description
+:--:|:--:
+Cell1|Cell2
+Cell1|Cell2
+Cell1|Cell2
 
 <!-- Code -->
 `console.log('message');` and..<br>
