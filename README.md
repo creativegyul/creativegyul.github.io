@@ -1,15 +1,5 @@
 # creativegyul.github.io
-___
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-Paragraph
-<!-- Line -->
-___
-<!-- Text Attributes -->
+
 This is the **bold** text and this is the *italic* text and let's do ~~strikethrough~~.
 
 <!-- Quote -->
@@ -35,13 +25,6 @@ Visit [YouTube](https://www.youtube.com/)
 
 <!-- Image -->
 ![google logo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
-
-<!-- Table -->
-Header|Description
-:--:|:--:
-Cell1|Cell2
-Cell1|Cell2
-Cell1|Cell2
 
 <!-- Code -->
 `console.log('message');` and..<br>
