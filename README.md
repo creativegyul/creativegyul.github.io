@@ -1,5 +1,6 @@
 # creativegyul.github.io
 
+## 개발자가 되고싶은 허결의 블로그. 환영합니다.
 This is the **bold** text and this is the *italic* text and let's do ~~strikethrough~~.
 
 <!-- Quote -->
